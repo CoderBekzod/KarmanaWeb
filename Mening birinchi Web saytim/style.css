@@ -63,8 +63,5 @@
     z-index: -1;
     transition: 0.33s;
 }
-
-.btn-white:hover::after {
-    transform: scale(1.5);
-    background-color: transparent;
+;
 }
